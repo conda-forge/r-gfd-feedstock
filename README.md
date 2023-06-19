@@ -1,11 +1,11 @@
-About r-gfd
-===========
+About r-gfd-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gfd-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=GFD
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gfd-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implemented are the Wald-type statistic, a permuted version thereof as well as the ANOVA-type statistic for general factorial designs, even with non-normal error terms and/or heteroscedastic variances, for crossed designs with an arbitrary number of factors and nested designs with up to three factors. Friedrich et al. (2017) <doi:10.18637/jss.v079.c01>.
 
